@@ -1,0 +1,16 @@
+{
+  "name": "js-datastructures-and-algorithms",
+  "version": "1.0.0",
+  "description": "contains practice problems solutions while learning data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Algorithms"
+  ],
+  "author": "shubham",
+  "license": "ISC"
+}
